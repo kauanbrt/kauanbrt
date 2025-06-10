@@ -1,4 +1,8 @@
-<h2 align="left">Olá 👋! Sou o Kauan. Dev Web, estudante de Eng. de Software e especialista em transformar café em código ☕➡️💻</h2>
+## Olá 👋! Sou o Kauan.
+
+- Dev Web
+- Estudante de Eng. de Software
+- Especialista em transformar café em código ☕➡️💻
 
 ###
 
