@@ -6,14 +6,10 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=kauanbrt&locale=pt-br&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanbrt&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJmZmM4c280cW8zeHBiMjRvMHE3amp5aGg3M25iYTN2ZjVsNzVneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.gif"  />
 
 ###
 
